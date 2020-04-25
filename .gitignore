@@ -1,0 +1,13 @@
+.idea/
+setup.py
+setup.cfg
+/build/
+/dist/
+/CoronaSplat/Graphics/
+/CoronaSplat/Sounds/
+/CoronaSplat/Data/
+/CoronaSplat/build/
+/CoronaSplat/dist/
+/CoronaSplat.egg-info
+/CoronaSplat/build.spec
+__pycache__/
