@@ -1,0 +1,5 @@
+This source code is released under the GNU General Public License
+(see https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
